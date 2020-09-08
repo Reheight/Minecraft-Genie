@@ -1,0 +1,21 @@
+{
+  "name": "typescript-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Dustin Palmatier",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.6.4",
+    "axios": "^0.20.0",
+    "common-tags": "^1.8.0",
+    "discord-akairo": "github:1Computer1/discord-akairo",
+    "discord.js": "^12.3.1",
+    "minecraft-player": "^1.0.1",
+    "minecraft-protocol": "^1.16.0",
+    "moment": "^2.27.0",
+    "request": "^2.88.2"
+  }
+}
