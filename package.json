@@ -15,6 +15,7 @@
     "discord-akairo": "github:1Computer1/discord-akairo",
     "discord.js": "^12.3.1",
     "express": "^4.17.1",
+    "helmet-csp": "^3.1.0",
     "minecraft-player": "^1.0.1",
     "minecraft-protocol": "^1.16.0",
     "moment": "^2.27.0",
