@@ -1,0 +1,26 @@
+-------------------- Auto-Git Log --------------------
+		Tue Sep 08 2020 14:46:52 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* dist/index.js
+* dist/tsconfig.tsbuildinfo
+* package-lock.json
+* package.json
+* src/index.ts
+
+
+Created files:
+* .autogit/logs/log-8-8-2020-14-16-33.txt
+* node_modules/helmet-csp/CHANGELOG.md
+* node_modules/helmet-csp/LICENSE
+* node_modules/helmet-csp/README.md
+* node_modules/helmet-csp/index.d.ts
+* node_modules/helmet-csp/index.js
+* node_modules/helmet-csp/package.json
+
+
+Deleted files:
+
+
+Renamed files:

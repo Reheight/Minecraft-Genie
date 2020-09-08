@@ -19,7 +19,7 @@ app.use(csp({
     }
   }))
 
-const service = app.listen(8443, () => {
+const service = app.listen(23224, () => {
     console.log(`API is now active on port: ${service.address().port}`);
 });
 
