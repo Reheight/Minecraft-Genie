@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Tue Sep 08 2020 15:17:12 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* dist/index.js
+* dist/tsconfig.tsbuildinfo
+* src/index.ts
+
+
+Created files:
+* .autogit/logs/log-8-8-2020-14-46-52.txt
+
+
+Deleted files:
+
+
+Renamed files:
