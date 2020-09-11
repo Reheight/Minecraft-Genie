@@ -2,7 +2,6 @@ import { Command } from "discord-akairo";
 import { Message } from "discord.js";
 import { prefix } from "../../config";
 import { BuildEmbed } from "../../utils/EmbedUtil";
-import MCP from "minecraft-protocol";
 import DNS from "dns";
 import { MessageEmbed } from "discord.js";
 import fs from "fs";
