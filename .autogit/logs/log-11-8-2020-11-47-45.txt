@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Sep 11 2020 11:47:45 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* "src/commands/Public Commands/ServerCommand.ts"
+
+
+Created files:
+* .autogit/logs/log-8-8-2020-18-19-14.txt
+
+
+Deleted files:
+
+
+Renamed files:
